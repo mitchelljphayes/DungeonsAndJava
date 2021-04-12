@@ -1,0 +1,21 @@
+
+Player Name: Mitch, Game Outcome: Win, items in inventory: 1, coins collected: 0, Distance Travelled: 45
+Player Name: Mitch, Game Outcome: Lose, items in inventory: 2, coins collected: 0, Distance Travelled: 66
+Player Name: Mitch, Game Outcome: Lose, items in inventory: 3, coins collected: 0, Distance Travelled: 33
+Player Name: Mitch, Game Outcome: Lose, items in inventory: 5, coins collected: 0, Distance Travelled: 61
+Player Name: Mitch, Game Outcome: Win, items in inventory: 2, coins collected: 1000, Distance Travelled: 76
+Player Name: Mitch, Game Outcome: Lose, items in inventory: 0, coins collected: 0, Distance Travelled: 49
+Player Name: Mitch, Game Outcome: Win, items in inventory: 2, coins collected: 0, Distance Travelled: 79
+Player Name: Mitch, Game Outcome: Lose, Items in Inventory: 0, Coins collected: 1000, Distance Travelled: 32
+Player Name: ", + 37 + ", Game Outcome: Win, Items in Inventory: 2, Coins collected: 2000, Distance Travelled: 79
+Player Name: quito, Game Outcome: Lose, Items in Inventory: 1, Coins collected: 1000, Distance Travelled: 51
+Player Name: Mitch, Game Outcome: Lose, Items in Inventory: 3, Coins collected: 0, Distance Travelled: 55
+Player Name: Mitch, Game Outcome: Lose, Items in Inventory: 1, Coins collected: 2000, Distance Travelled: 32
+Player Name: Mitch, Game Outcome: Win, Items in Inventory: 2, Coins collected: 1000, Distance Travelled: 59
+Player Name: Mitch, Game Outcome: Win, Items in Inventory: 2, Coins collected: 1000, Distance Travelled: 74
+Player Name: %%%%%%%%%%, Game Outcome: Lose, Items in Inventory: 3, Coins collected: 0, Distance Travelled: 30
+Player Name: Test, Game Outcome: Win, Items in Inventory: 2, Coins collected: 0, Distance Travelled: 78
+Player Name: Mitch\n, Game Outcome: Win, Items in Inventory: 3, Coins collected: 1000, Distance Travelled: 48
+Player Name: Mitch, Game Outcome: Win, Items in Inventory: 3, Coins collected: 0, Distance Travelled: 64
+Player Name: Mitch, Game Outcome: Win, Items in Inventory: 2, Coins collected: 0, Distance Travelled: 44
+Player Name: Mitch, Game Outcome: Win, Items in Inventory: 0, Coins collected: 1000, Distance Travelled: 107
